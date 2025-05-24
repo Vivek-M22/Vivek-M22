@@ -5,8 +5,7 @@
     </td>
         <td style="vertical-align: top; padding-left: 10px; border: none;">
       <p>
-        Hy Connections, I am a <strong>FullStack Developer</strong> and a passionate problem-solver 
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+        Hy Connections, I am a <strong>FullStack Developer</strong> and a <strong>Passionate Programmer </strong> from India.
       </p>
       <ul>
         <li>🌱 I’m currently learning Backend Development.</li>
@@ -17,6 +16,7 @@
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
         </a>
         <img src="https://komarev.com/ghpvc/?username=Vivek-M22&style=for-the-badge&color=blue" alt="Profile Views">
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
       </div>
     </td>
   </tr>
@@ -53,9 +53,15 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vivek-M22&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="left" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Vivek-M22&theme=dark&background=000000" alt="GitHub Streak" style="height: 150px; gap:30px">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-M22&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="height: 150px;">
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-M22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
