@@ -33,8 +33,10 @@
     <th>MongoDB</th>
     <th>MySQL</th>
     <th>Node.js</th>
+    <th>SpringBoot</th>
     <th>Postman</th>
     <th>Git</th>
+    
   </tr>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></td>
@@ -45,7 +47,9 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot" width="40" height="40"/>
+    </td>
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/></td>
   </tr>
