@@ -59,11 +59,14 @@
 
 <div align="left" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Vivek-M22&theme=dark&background=000000" alt="GitHub Streak" style="height: 150px; gap:30px">
+    <img  height="100" src="http://github-readme-streak-stats.herokuapp.com?user=Vivek-M22&theme=dark&background=000000" alt="GitHub Streak" style="height: 150px; gap:30px">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-M22&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="height: 150px;">
+    <img  height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-M22&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="height: 150px;">
   </a>
+<!--   <a>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vivek-M22&show_icons=true&theme=vision-friendly-dark" />
+  </a> -->
 </div>
 
 
