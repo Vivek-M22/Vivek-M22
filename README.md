@@ -5,10 +5,11 @@
     </td>
         <td style="vertical-align: top; padding-left: 10px; border: none;">
       <p>
-        Hy Connections, I am a <strong>FullStack Developer</strong> and a <strong>Passionate Programmer </strong> from India.
+        Hy Connections, I am a <strong>FullStack Developer, Aspiring Agentic AI Devloper </strong> and a <strong>Passionate Programmer </strong> from India.
       </p>
       <ul>
-        <li>🌱 I’m currently learning Backend Development.</li>
+        <li>⚡ I’m currently learning AGENTIC AI.</li>
+        <li>⚡ I Know MERN Stack, Java Development </li>
         <li>⚡ Sharpening DSA skills with consistency and code.</li>
       </ul>
       <div>
